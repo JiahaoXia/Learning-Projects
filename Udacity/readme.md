@@ -1,2 +1,2 @@
 ### Udacity
-#### <Tensorflow Lite>(https://classroom.udacity.com/courses/ud190)
+#### [Tensorflow Lite](https://classroom.udacity.com/courses/ud190)
